@@ -1,0 +1,16 @@
+Book Name: To Kill a Mockingbird
+Author: Harper Lee
+Publisher: Harper Perennial Modern Classics
+Serial: 1
+Book Name: Brave New World
+Author: Aldous Huxley
+Publisher: Harper & Brothers
+Serial: 8
+Book Name: Moby-Dick
+Author: Herman Melville
+Publisher: Richard Bentley (UK) / Harper & Brothers (US)
+Serial: 16
+Book Name: The Alchemist
+Author: Paulo Coelho
+Publisher: HarperOne
+Serial: 15

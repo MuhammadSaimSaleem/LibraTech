@@ -1,0 +1,151 @@
+Book Name: To Kill a Mockingbird
+Publisher: Penguin Classics
+Serial: 4
+Book Name: Harry Potter and the Sorcerer's Stone
+Author: J.K. Rowling
+Publisher: Scholastic
+Serial: 6
+Book Name: Brave New World
+Author: Aldous Huxley
+Publisher: Simon & Schuster
+Serial: 10
+Book Name: Jane Eyre
+Author: Charlotte Brontë
+Publisher: Penguin Classics
+Serial: 11
+Book Name: Moby-Dick
+Author: Herman Melville
+Publisher: Macmillan
+Serial: 19
+Book Name: Gone with the Wind
+Author: Margaret Mitchell
+Publisher: Macmillan
+Serial: 20
+Book Name: Watership Down
+Author: Richard Adams
+Publisher: Rex Collings
+Serial: 22
+Book Name: Animal Farm
+Author: George Orwell
+Publisher: Secker & Warburg
+Serial: 25
+Book Name: Dracula
+Author: Bram Stoker
+Publisher: Archibald Constable and Company
+Serial: 26
+Book Name: One Hundred Years of Solitude
+Author: Gabriel Garcia Marquez
+Publisher: Editorial Sudamericana
+Serial: 27
+Book Name: Pippi Longstocking
+Author: Astrid Lindgren
+Publisher: Rabén & Sjögren
+Serial: 36
+Book Name: 1984
+Author: George Orwell
+Publisher: Penguin Books
+Serial: 2
+Book Name: The Catcher in the Rye
+Author: J.D. Salinger
+Publisher: Little, Brown and Company
+Serial: 5
+Book Name: The Hobbit
+Author: J.R.R. Tolkien
+Publisher: Houghton Mifflin
+Serial: 7
+Book Name: The Lord of the Rings
+Author: J.R.R. Tolkien
+Publisher: Houghton Mifflin
+Serial: 9
+Book Name: The Diary of a Young Girl
+Author: Anne Frank
+Publisher: Doubleday
+Serial: 12
+Book Name: The Hunger Games
+Author: Suzanne Collins
+Publisher: Scholastic
+Serial: 13
+Book Name: The Da Vinci Code
+Author: Dan Brown
+Publisher: Doubleday
+Serial: 14
+Book Name: The Alchemist
+Author: Paulo Coelho
+Publisher: Ticknor, Reed & Fields
+Serial: 17
+Book Name: War and Peace
+Author: Leo Tolstoy
+Publisher: The Russian Messenger
+Serial: 18
+Book Name: The Chronicles of Narnia: The Voyage of the Dawn Treader
+Author: C.S. Lewis
+Publisher: Geoffrey Bles
+Serial: 21
+Book Name: The Grapes of Wrath
+Author: John Steinbeck
+Publisher: The Viking Press
+Serial: 23
+Book Name: The Adventures of Huckleberry Finn
+Author: Mark Twain
+Publisher: Chatto & Windus (UK) / Charles L. Webster & Co. (US)
+Serial: 24
+Book Name: The Outsiders
+Author: S.E. Hinton
+Publisher: Viking Press
+Serial: 28
+Book Name: The Hitchhiker's Guide to the Galaxy
+Author: Douglas Adams
+Publisher: Pan Books
+Serial: 29
+Book Name: The Secret Garden
+Author: Frances Hodgson Burnett
+Publisher: Frederick Warne & Co.
+Serial: 30
+Book Name: The Count of Monte Cristo
+Author: Alexandre Dumas
+Publisher: Pétion
+Serial: 31
+Book Name: The Call of the Wild
+Author: Jack London
+Publisher: The Macmillan Company
+Serial: 32
+Book Name: The Shining
+Author: Stephen King
+Publisher: Doubleday
+Serial: 33
+Book Name: The Color Purple
+Author: Alice Walker
+Publisher: Harcourt Brace Jovanovich
+Serial: 34
+Book Name: The Little Prince
+Author: Antoine de Saint-Exupéry
+Publisher: Reynal & Hitchcock
+Serial: 35
+Book Name: The Giver
+Author: Lois Lowry
+Publisher: Houghton Mifflin
+Serial: 37
+Book Name: The Picture of Dorian Gray
+Author: Oscar Wilde
+Publisher: Ward, Lock & Co.
+Serial: 38
+Book Name: The Hound of the Baskervilles
+Author: Arthur Conan Doyle
+Publisher: George Newnes
+Serial: 39
+Book Name: The Road
+Author: Cormac McCarthy
+Publisher: Alfred A. Knopf
+Serial: 40
+Book Name: The Joy Luck Club
+Author: Amy Tan
+Publisher: G.P. Putnam's Sons
+Serial: 41
+Book Name: The Kite Runner
+Author: Khaled Hosseini
+Publisher: Riverhead Books
+Serial: 42
+Book Name: The Fault in Our Stars
+Author: John Green
+Publisher: Dutton Books
+Serial: 43
